@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Happiness lies in the joy of achievement and the thrill of creative effort." -FDR
 Use the left arrow to go back!
